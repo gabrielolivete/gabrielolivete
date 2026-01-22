@@ -1,16 +1,14 @@
-## Hi there 👋
+# Gabriel Olivete
 
-<!--
-**gabrielolivete/gabrielolivete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer & Data Analyst  
+Python | SQL | JavaScript | Data Analysis
 
-Here are some ideas to get you started:
+I am transitioning into the technology field with a strong analytical background and experience working with real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying Systems Analysis and Development, focusing on software development, automation and data analysis.
+
+📌 Interests:
+- Software Development
+- Data Analysis
+- Automation
+- Technology
