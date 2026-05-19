@@ -49,6 +49,6 @@ As a **Jr Front-end Developer**, I'm building my portfolio with practical projec
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Gabriel Olivete] (https://www.linkedin.com/in/gcezar/)
-- **Email:** gcezarzoo@gmail.com
-- **Portfolio:** [your-portfolio.com]()
+- 💼 [Gabriel Cézar | LinkedIn](https://www.linkedin.com/in/gcezar/)
+- 📧 gcezarzoo@gmail.com
+- 🌐 your-portfolio.com
