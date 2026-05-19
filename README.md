@@ -52,9 +52,3 @@ As a **Jr Front-end Developer**, I'm building my portfolio with practical projec
 - **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-profile)
 - **Email:** gcezarzoo@gmail.com
 - **Portfolio:** [your-portfolio.com]()
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
