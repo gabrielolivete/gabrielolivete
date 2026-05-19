@@ -49,6 +49,6 @@ As a **Jr Front-end Developer**, I'm building my portfolio with practical projec
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [your-linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gcezar/))
 - **Email:** gcezarzoo@gmail.com
 - **Portfolio:** [your-portfolio.com]()
