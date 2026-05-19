@@ -50,5 +50,5 @@ As a **Jr Front-end Developer**, I'm building my portfolio with practical projec
 ## 📫 Get in Touch
 
 - 💼 [Gabriel Cézar | LinkedIn](https://www.linkedin.com/in/gcezar/)
-- 📧 gcezarzoo@gmail.com
-- 🌐 your-portfolio.com
+- 📧 [Email](gcezarzoo@gmail.com)
+- 🌐 [Portfolio](https://gabrielolivete.github.io/portfolio-main/)
