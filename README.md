@@ -38,7 +38,6 @@ I am also deeply interested in **Artificial Intelligence and AI Agents**, explor
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
     style="padding: 10px" 
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=gabrielolivete&theme=tokyonight" 
 />
