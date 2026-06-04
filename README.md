@@ -2,6 +2,9 @@
 
 **`Frontend Developer | Python & AI`**
 
+<p><a href="https://github.com/gabrielolivete?tab=repositories">📱 Visit All Repositories</a></p><p><a href="https://gabrielolivete.github.io/portfolio-main/">📱 Visit My Portfolio</a></p>
+
+
 I am Gabriel Olivete, a **Systems Analysis and Development** graduate passionate about technology and continuous learning. Originally from Campo Grande and currently based in Curitiba, I am focused on building a high-quality portfolio that reflects my growth as a developer and my dedication to creating modern, responsive, and visually engaging applications.<br/>
 The projects featured in my portfolio represent my ongoing improvement in front-end development, design, and user experience. Alongside that, I am currently studying **Back-End Development** with **Python**, **Data Science**, and **Data Engineering** through courses on Alura.<br/>
 I am also deeply interested in **Artificial Intelligence and AI Agents**, exploring how intelligent systems can automate processes, analyze information, and create smarter and more dynamic digital experiences.
